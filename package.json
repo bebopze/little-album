@@ -1,0 +1,22 @@
+{
+  "name": "little-album",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "junzijian",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junzijian/little-album.git"
+  },
+  "bugs": {
+    "url": "https://github.com/junzijian/little-album/issues"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
